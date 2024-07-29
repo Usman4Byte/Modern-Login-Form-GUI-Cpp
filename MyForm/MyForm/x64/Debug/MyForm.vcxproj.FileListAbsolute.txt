@@ -1,0 +1,3 @@
+F:\My_Stuff\General\MyForm\MyForm\x64\Debug\MyForm.vcxproj.AssemblyReference.cache
+F:\My_Stuff\General\MyForm\MyForm\x64\Debug\MyForm.MyForm.resources
+F:\My_Stuff\General\MyForm\MyForm\x64\Debug\MyForm.vcxproj.GenerateResource.cache
